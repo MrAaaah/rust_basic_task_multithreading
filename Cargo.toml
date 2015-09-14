@@ -1,0 +1,8 @@
+[package]
+name = "multithread"
+version = "0.1.0"
+authors = ["Jules Minier <jules.minier@mraaaah.fr>"]
+
+[dependencies]
+rand = "0.3"
+num_cpus = "0.2.6"
